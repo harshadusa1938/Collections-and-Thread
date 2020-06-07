@@ -1,11 +1,11 @@
-package com.statwithjava.collections;
+package com.harshad.collections;
 
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-import com.statwithjava.beans.Customer;
+import com.harshad.beans.Customer;
 
 public class HashMapExample {
 
